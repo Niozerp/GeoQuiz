@@ -1,3 +1,4 @@
+
 package com.bignerdranch.geoquiz;
 
 public class TrueFalse {
@@ -26,4 +27,5 @@ public class TrueFalse {
 		mTrueQuestion = trueQuestion;
 	}
 
+	
 }
